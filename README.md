@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Forest Fire Risk detection<br>I love ai and machine learning<br>Ask me about chess<br>
+I am currently working on Forest Fire Risk detection usign Spatio-Temporal data <br>I love ai and machine learning<br>Ask me about chess<br>
 
 
 ## 🌐 Socials:
